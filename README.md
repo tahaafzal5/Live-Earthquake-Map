@@ -9,6 +9,6 @@ Submitted by: **Taha Afzal**
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/FMEq9Qi5nA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://recordit.co/FMEq9Qi5nA.gif)
 
 GIF created with [Recordit](https://recordit.co).
