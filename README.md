@@ -4,3 +4,5 @@ This R-script shows a real-time map of the world marked with earthquakes. The us
 **Live Earthquake Map** is a R-script.
 
 Submitted by: **Taha Afzal**
+
+<img src = "https://github.com/tahaafzal5/Live-Earthquake-Map/blob/master/Screenshot%201.jpg">
